@@ -1,9 +1,6 @@
 menu:
-    博文: /
-    归档: /archives/
-    生活: /categories/live/
-    摄影: /categories/film/
-    关于: /about/
+    镜像站: /
+    所有通知: /news/archives/
 
 widgets:
 - category
