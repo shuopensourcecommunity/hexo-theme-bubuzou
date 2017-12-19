@@ -1,6 +1,8 @@
 menu:
+    主站: https://osc.shu.edu.cn
     镜像站: /
-    所有通知: /news/archives/
+    官方博客: https://blog.shuosc.org
+    所有通知: /news/archives
 
 widgets:
 - category
@@ -11,7 +13,7 @@ widgets:
 # count
 show_count: true
 favicon: /images/favicon.ico
-logo: /images/logo.png
+logo: /logo.png
 
 # Comment
 changyan: bubuzou
